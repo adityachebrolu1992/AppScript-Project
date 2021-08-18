@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AppScript-Project/static/css/main.71131e8a.chunk.css",
+    "main.js": "/AppScript-Project/static/js/main.903ae61b.chunk.js",
+    "main.js.map": "/AppScript-Project/static/js/main.903ae61b.chunk.js.map",
+    "runtime-main.js": "/AppScript-Project/static/js/runtime-main.27734958.js",
+    "runtime-main.js.map": "/AppScript-Project/static/js/runtime-main.27734958.js.map",
+    "static/js/2.3ad285c9.chunk.js": "/AppScript-Project/static/js/2.3ad285c9.chunk.js",
+    "static/js/2.3ad285c9.chunk.js.map": "/AppScript-Project/static/js/2.3ad285c9.chunk.js.map",
+    "static/js/3.8c6ccf1f.chunk.js": "/AppScript-Project/static/js/3.8c6ccf1f.chunk.js",
+    "static/js/3.8c6ccf1f.chunk.js.map": "/AppScript-Project/static/js/3.8c6ccf1f.chunk.js.map",
+    "index.html": "/AppScript-Project/index.html",
+    "static/css/main.71131e8a.chunk.css.map": "/AppScript-Project/static/css/main.71131e8a.chunk.css.map",
+    "static/js/2.3ad285c9.chunk.js.LICENSE.txt": "/AppScript-Project/static/js/2.3ad285c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27734958.js",
+    "static/js/2.3ad285c9.chunk.js",
+    "static/css/main.71131e8a.chunk.css",
+    "static/js/main.903ae61b.chunk.js"
+  ]
+}
