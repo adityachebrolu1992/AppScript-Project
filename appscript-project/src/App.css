@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.App {
+  background-image: linear-gradient(to right, rgb(155, 189, 211), rgb(8, 115, 187));
+}
+ 
